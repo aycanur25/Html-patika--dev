@@ -1,0 +1,33 @@
+img{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 100px;
+    left: 500px;
+}
+p{
+    position: relative;
+    top: 150px;
+    left: 550px;
+}
+div{
+    position: relative;
+    top: 150px;
+    left: 580px;
+}
+.box{
+    width: 250px;
+    height: 130px;
+    padding: 10px;
+    margin-left: 2px;
+    float: left;
+    left: 300px;
+}
+.bg-aqua {
+    background-color: aqua;
+}
+.bg-aquamarine{
+    background-color: rgb(4, 223, 223);
+}
+.bg-yellowgreen{
+    background-color: rgb(0, 196, 196);
+}
